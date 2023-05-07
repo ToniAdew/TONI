@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: coral;
+}
+
+h3 {
+    color: violet;
+}
+
+hr {
+    border-style: none;
+    border-top-style:solid;
+    border-color: chocolate;
+    border-width: 5px;
+    width: 30%;
+}
